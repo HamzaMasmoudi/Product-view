@@ -37,5 +37,5 @@ I also learned about linear gradient and placing it on a background image wich r
 
 ## Author
 
-- Website - [Hamza Masmoudi](https://www.your-site.com)
+- Website - [Hamza Masmoudi](https://hamzamasmoudi.netlify.app/)
 - Frontend Mentor - [@HamzaMasmoudi](https://www.frontendmentor.io/profile/HamzaMasmoudi)
