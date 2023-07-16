@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ](https://product-view-dev.netlify.app/)
-- Live Site URL: [ live site URL ](https://www.frontendmentor.io/solutions/product-view-D-8N28jaYg)
+- Solution URL: [ solution URL ](https://www.frontendmentor.io/solutions/product-view-D-8N28jaYg)
+- Live Site URL: [ live site URL ](https://product-view-dev.netlify.app/)
 
 ## My process
 
